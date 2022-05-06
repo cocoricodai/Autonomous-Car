@@ -1,0 +1,33 @@
+PWM
+pin = 2
+pin = 3
+pin = 5
+pin = 6
+
+Motor-1
+M1_En = 4
+M1_1A = 17
+M1_1B = 18
+
+Motor-2
+M2_En = 5
+M2_1A = 27
+M2_1B = 22
+
+Servo
+channel = 0
+
+UltrasoundSensor-Left
+TRIG = 11
+ECHO = 9
+
+UltrasoundSensor-Right
+TRIG = 26
+ECHO = 19
+
+UltrasoundSensor-Front
+TRIG = 6
+ECHO = 5
+
+InfraredSensor
+TRIG = 20
