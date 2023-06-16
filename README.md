@@ -1,5 +1,6 @@
 # Autonomous Car
-
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a3f5246-4d7b-4337-8e27-88dc6b7afa2b/Untitled.png)
+[Cocoricodai](https://github.com/cocoricodai) [traczi](https://github.com/traczi)
 ## Project Description
 The ultimate goal of this project was to apply the agile scrum method.
 The project consists in developing (in Python 3) a mobile module in order to carry out a race of
